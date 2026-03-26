@@ -68,7 +68,8 @@ This lab will assess your ability to apply CSS Flexbox properties to create a re
      - Set the `transform` property to `scale(1.05)`.
 
 7. **Organize and Test**
-   - Save your CSS file.
+   -
+ Save your CSS file.
    - Open the `index.html` file in a web browser to view the changes.
    - Ensure all elements are styled correctly and the layout is responsive.
    - Run `npm test` to test your code and ensure all tests are passing.
